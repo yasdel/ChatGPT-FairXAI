@@ -5,4 +5,7 @@
 
 
 
-<img src="https://github.com/yasdel/ChatGPT-FairXAI/assets/12104758/752299a0-354b-4b6a-a734-5ca8b0e0b36a" width="500">
+<p align="center">
+  <img src="https://github.com/yasdel/ChatGPT-FairXAI/assets/12104758/752299a0-354b-4b6a-a734-5ca8b0e0b36a" width="500"><br>
+  <i>This paper provides preliminary insights from an ongoing larger project aiming to address the challenges associated with the use of LLMs, particularly in decision-making processes through prompt engineering. We demonstrate the ability to harness the potential of utilizing pre-trained models for downstream ML tasks, thereby eliminating the need for dedicated model training. By meticulously designing prompts that embody problem-specific instructions and contexts, we direct these models toward achieving desired objectives, such as enhancing prediction accuracy and minimizing risk (and/or mitigating unfair outcomes). Moreover, we underscore the significance of incorporating domain-specific knowledge from experts, obtained through an apriori ML phase, as a powerful tool to improve the quality and effectiveness of the prediction tasks to a considerable degree. Our contributions can be summarized as follows:</i>
+</p>
