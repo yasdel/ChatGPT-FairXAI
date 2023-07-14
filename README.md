@@ -5,4 +5,4 @@
 
 
 
-![Screenshot 2023-07-14 162555](https://github.com/yasdel/ChatGPT-FairXAI/assets/12104758/752299a0-354b-4b6a-a734-5ca8b0e0b36a)
+<img src="https://github.com/yasdel/ChatGPT-FairXAI/assets/12104758/752299a0-354b-4b6a-a734-5ca8b0e0b36a" width="500">
