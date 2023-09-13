@@ -18,7 +18,6 @@
 <div align="center">
   <figure>
     <img src="flow_char_new.jpg" width="450"/>
-    <figcaption>Fig. Flowchart illustrating the conceptual framework of the paper</figcaption>
   </figure>
 </div>
 </br>
