@@ -1,5 +1,5 @@
-# GPT-CreditRisk
-"GPT-CreditRisk" investigates the potential of Large-scale Language Models (LLMs) like OpenAI's GPT in the domain of credit risk assessment. Our findings suggest that when judiciously designed prompts and domain-specific knowledge are integrated, LLMs can achieve parallel performance to traditional ML models—while requiring significantly less data.
+# ChatGPT-FairXAI
+"GPT-FairXAI" investigates the potential of Large-scale Language Models (LLMs) like OpenAI's GPT in the domain of credit risk assessment. Our findings suggest that when judiciously designed prompts and domain-specific knowledge are integrated, LLMs can achieve parallel performance to traditional ML models—while requiring significantly less data.
 
 This paper has been accepted to the workshop on "Challenges and Opportunities of Large Language Models in Real-World Machine Learning Applications", COLLM@ECML-PKDD'23: https://collm2023.github.io/
 
