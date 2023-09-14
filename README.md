@@ -15,11 +15,12 @@
 ```
 </br>
 
-<div align="center">
-  <figure>
-    <img src="Screenshot 2023-09-14 172603.png" width="650"/>
-  </figure>
+
+![Flow Chart](flow_char_new.jpg)
+*Caption: The flowchart illustrating the research methodology.*
+
 </div>
+
 </br>
 
 ---
