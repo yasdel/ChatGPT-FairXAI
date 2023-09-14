@@ -17,7 +17,7 @@
 
 <div align="center">
   <figure>
-    <img src="flow_char_new.jpg" width="450"/>
+    <img src="Screenshot 2023-09-14 172603.png" width="450"/>
   </figure>
 </div>
 </br>
