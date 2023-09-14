@@ -33,9 +33,9 @@ Link to the paper: [https://doi.org/10.48550/arXiv.2307.11761]
 
 🔍 **Key Insights**:
 
-1. 📈 GPT performs competitively in credit risk assessment even with 40 times less data compared to traditional ML models.
+1. 📈 ChatGPT performs competitively in credit risk assessment even with 40 times less data compared to traditional ML models.
 2. 🏦 Prompt engineering and domain-specific knowledge enhance performance metrics.
-3. 🚨 LLM seems to excel in enhancing fairness with good prompt design. 
+3. 🚨 ChatGPT seems to excel in enhancing fairness with good prompt design. 
 
 ---
 
