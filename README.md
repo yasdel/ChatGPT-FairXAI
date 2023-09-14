@@ -22,7 +22,7 @@ Link to the paper: [https://doi.org/10.48550/arXiv.2307.11761]
 
 <div align="center">
   <figure style="display: inline-block;">
-    <img src="flow_char_new.jpg" width="550"/>
+    <img src="flow_char_new.jpg" width="350"/>
   </figure>
 </div>
 
