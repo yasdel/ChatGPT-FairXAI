@@ -15,10 +15,11 @@
 ```
 </br>
 
-
-![Flow Chart](flow_char_new.jpg)
-*Caption: The flowchart illustrating the research methodology.*
-
+<div align="center">
+  <figure>
+    <img src="flow_char_new.jpg" width="450"/>
+    <figcaption>Flowchart illustrating the conceptual framework of the paper</figcaption>
+  </figure>
 </div>
 
 </br>
