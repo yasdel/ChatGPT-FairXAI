@@ -22,18 +22,20 @@
 </div>
 </br>
 
-📊 Research Summary: ChatGPT in Healthcare Decision-Making
-🔍 Key Insights:
+---
+### 📊 **Research Summary: ChatGPT in Healthcare Decision-Making**
 
-📈 ChatGPT initially lags in zero-shot scenarios but gains ground in few-shot scenarios.
-🧠 Incorporating domain-specific knowledge, such as XGB predictions, substantially boosts performance.
-⚠️ Higher rates of False Positives require careful model design and implementation.
+🔍 **Key Insights**:
 
-🌟 Summary:
+1. 📈 ChatGPT initially lags in zero-shot scenarios but gains ground in few-shot scenarios.
+2. 🧠 Incorporating domain-specific knowledge, such as XGB predictions, substantially boosts performance.
+3. ⚠️ Higher rates of False Positives require careful model design and implementation.
 
-Our research dives deep into the role of OpenAI's ChatGPT in healthcare decision-making. While the model starts off trailing traditional ML approaches, it shows remarkable adaptability in few-shot learning scenarios. Domain-specific integration notably elevates its capabilities, at times outperforming classical ML models. However, caution is due—particularly due to increased rates of False Positives and variability in results.
+---
 
-
+🌟 **Summary**: 
+> Our research dives deep into the role of OpenAI's ChatGPT in healthcare decision-making. While the model starts off trailing traditional ML approaches, it shows remarkable adaptability in few-shot learning scenarios. Domain-specific integration notably elevates its capabilities, at times outperforming classical ML models. However, caution is due—particularly due to increased rates of False Positives and variability in results.
+---
 
 
 
