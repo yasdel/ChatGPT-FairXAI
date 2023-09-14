@@ -17,7 +17,7 @@
 
 <div align="center">
   <figure>
-    <img src="Screenshot 2023-09-14 172603.png" width="450"/>
+    <img src="Screenshot 2023-09-14 172603.png" width="650"/>
   </figure>
 </div>
 </br>
