@@ -1,5 +1,5 @@
-# ChatGPT-FairXAI
-"ChatGPT-FairXAI" (short for Fair and eXplainable AI for CHATGPT) is an evaluation framework for assessing the fairness and explainability of OpenAI's GPT-3 language model in generating responses tailored specifically for Machine Learning tasks. This repository focuses on ML interpretability and fairness criteria applied to ML tasks under ChatGPT. 
+# ChatGPT-HealthPrompt
+"ChatGPT-HealthPrompt" (an acronym for "Prompt Engineering for Healthcare Decision Making using ChatGPT as the Large Language Model") serves as an evaluative framework to analyze the efficacy and potential hazards of OpenAI's GPT-3 model within the field of healthcare decision-making, especially in diagnostic contexts.
 
 ```
 @article{deldjoo2023Explainable,
@@ -22,8 +22,16 @@
 </div>
 </br>
 
-This paper provides preliminary insights from an ongoing larger project aiming to address the challenges associated with the use of LLMs, particularly in decision-making processes through prompt engineering. We demonstrate the ability to harness the potential of utilizing pre-trained models for downstream ML tasks, thereby eliminating the need for dedicated model training. By meticulously designing prompts that embody problem-specific instructions and contexts, we direct these models toward achieving desired objectives, such as enhancing prediction accuracy and minimizing unfair outcomes. Moreover, we underscore the significance of incorporating domain-specific knowledge from experts, obtained through an apriori ML phase, as a powerful tool to improve the quality and effectiveness of the prediction tasks to a considerable degree.</br>
+📊 Research Summary: ChatGPT in Healthcare Decision-Making
+🔍 Key Insights:
 
+📈 ChatGPT initially lags in zero-shot scenarios but gains ground in few-shot scenarios.
+🧠 Incorporating domain-specific knowledge, such as XGB predictions, substantially boosts performance.
+⚠️ Higher rates of False Positives require careful model design and implementation.
+
+🌟 Summary:
+
+Our research dives deep into the role of OpenAI's ChatGPT in healthcare decision-making. While the model starts off trailing traditional ML approaches, it shows remarkable adaptability in few-shot learning scenarios. Domain-specific integration notably elevates its capabilities, at times outperforming classical ML models. However, caution is due—particularly due to increased rates of False Positives and variability in results.
 
 
 
